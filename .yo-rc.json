@@ -72,6 +72,16 @@
       "th",
       "ua",
       "vi"
-    ]
+    ],
+    "appsFolders": [
+      "sampleapp"
+    ],
+    "directoryPath": "../",
+    "monitoring": "no",
+    "dockerRepositoryName": "",
+    "dockerPushCommand": "docker push",
+    "openshiftNamespace": "default",
+    "storageType": "persistent",
+    "registryReplicas": 2
   }
 }
